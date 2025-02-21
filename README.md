@@ -12,12 +12,12 @@ Used Pandas to create three DataFrames and saved them as CSV files.
 Applied a for loop to compute missing values in the cost column using a running average.
 Split the name column into First Name and Last Name using str.split().
 Merged all three tables into a single "Final" DataFrame using pd.merge().
-Implemented a 5% bonus calculation for employees who completed their projects.
+Implemented a 5% bonus calculation for employees who completed their projects.<br/><br/>
 Adjusted designation levels for failed projects and removed employees with level > 4.
 Added “Mr.” and “Mrs.” prefixes to names based on gender and dropped the gender column.
 Promoted employees older than 29 years by increasing their designation level by 1.
 Computed the total cost of projects per employee and stored it in a new DataFrame (TotalProjCost).
-Filtered employee details where city names contained the letter “o” using str.contains().<br/>
+Filtered employee details where city names contained the letter “o” using str.contains().<br/><br/>
 Successfully completed all 10 data manipulation tasks using Pandas and NumPy.
 Ensured accurate data processing, transformation, and aggregation.
 Created clean, structured, and insightful data outputs.
