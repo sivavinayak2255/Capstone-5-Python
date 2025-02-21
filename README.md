@@ -7,7 +7,7 @@ Splitting columns and restructuring data.
 Merging multiple tables into a single dataframe.
 Applying conditional transformations, such as calculating bonuses and modifying designations.
 Filtering data based on specific criteria (e.g., city names containing 'o').
-Computing aggregate values, such as total project cost per employee.<br/>
+Computing aggregate values, such as total project cost per employee.<br/><br/>
 Used Pandas to create three DataFrames and saved them as CSV files.
 Applied a for loop to compute missing values in the cost column using a running average.
 Split the name column into First Name and Last Name using str.split().
