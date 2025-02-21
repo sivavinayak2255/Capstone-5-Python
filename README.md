@@ -1,6 +1,6 @@
 ### Python Capstone Project
 As part of my Python capstone project, there were three different tables containing data related to employees, projects, and other business attributes. my task was to perform multiple data manipulation tasks using Pandas and NumPy to clean, process, and extract meaningful insights.
-The project aimed to assess your ability to handle real-world data challenges by applying data cleaning, transformation, merging, and aggregation techniques.<br/>
+The project aimed to assess your ability to handle real-world data challenges by applying data cleaning, transformation, merging, and aggregation techniques.<br/><br/>
 Reading and saving data as CSV files.
 Handling missing values using a running average.
 Splitting columns and restructuring data.
